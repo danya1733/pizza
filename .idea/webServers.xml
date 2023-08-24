@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="14536316-d902-4d0b-a38b-60def3bd43c4" name="https://github.com/Danya22873/pizza.git" url="https://github.com/Danya22873/pizza.git">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
